@@ -11,6 +11,8 @@ namespace MyfirstGitPractice.Controllers
         public GitController(string apiKey) { }
 
         public void addedFromGitHub(){ }
+
+        public void addedForAnotherTest(){}
             
     }
 }
