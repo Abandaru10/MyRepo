@@ -1,0 +1,6 @@
+@MyfirstGitPractice_HostAddress = http://localhost:5267
+
+GET {{MyfirstGitPractice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
