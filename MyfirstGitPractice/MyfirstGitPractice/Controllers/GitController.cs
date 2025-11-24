@@ -9,6 +9,5 @@ namespace MyfirstGitPractice.Controllers
     {
         public GitController() { }
         public GitController(string apiKey) { }
-            
     }
 }
