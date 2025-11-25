@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace MyfirstGitPractice.Controllers
 {
@@ -13,6 +12,7 @@ namespace MyfirstGitPractice.Controllers
         public void addedFromGitHub(){ }
 
         public void addedForAnotherTest(){}
-            
+
+        public void methodAddedInFeature2(){ }
     }
 }
